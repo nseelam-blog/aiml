@@ -13,7 +13,8 @@ social-links:
   LinkedIn:        https://linkedin.com/in/Natasha-Seelam-6b536453
   GitHub:          https://github.com/hakunanatasha
 
-baseurl: https://nseelam-blog.github.io
+baseurl: aiml
+url: https://nseelam-blog.github.io
 
 #########################################################################################
 ### Formatting
