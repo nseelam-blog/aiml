@@ -43,15 +43,3 @@ header_pages:
   - archive.html
 
 comments_repo: nseelam-blog/aiml
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: https://s.gravatar.com/avatar/2136e716a089f4a3794f4007328c7bfb?s=800 # Apply default site image
-  - scope:
-      path: ""
-      type: posts
-    values:
-      tags:
-        - Overview # Add a default tag to all posts
