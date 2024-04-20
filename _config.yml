@@ -11,7 +11,6 @@ linkedin_username: "Natasha Murakowsk"
 show_excerpts: false
 
 social-links:
-  Resume:          https://chadbaldwin.net/resume
   LinkedIn:        https://linkedin.com/in/Natasha-Seelam-6b536453
   GitHub:          https://github.com/hakunanatasha
 
@@ -56,4 +55,4 @@ defaults:
       type: posts
     values:
       tags:
-        - Other # Add a default tag to all posts
+        - Overview # Add a default tag to all posts
