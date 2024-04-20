@@ -1,16 +1,24 @@
 title: "AIML Deep Dives"
 author: "Natasha Murakowska"
-description: "Tutorials on various AI/ML concepts"
+description: >
+"Tutorials on various AI/ML concepts"
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "nseelam1@gmail.com"
 github_username: "hakunanatasha"
 linkedin_username: "Natasha-Seelam-6b536453"
+show_excerpts: false
+
+social-links:
+  Resume:          https://chadbaldwin.net/resume
+  LinkedIn:        https://linkedin.com/in/Natasha-Seelam-6b536453
+  GitHub:          https://github.com/hakunanatasha
+
 
 
 #########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
+### Formatting
 #########################################################################################
 theme: "minima"
 
@@ -32,3 +40,20 @@ defaults:
       type: post
     values:
       tags: Other
+
+header_pages:
+  - archive.html
+
+comments_repo: nseelam-blog/aiml
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://s.gravatar.com/avatar/2136e716a089f4a3794f4007328c7bfb?s=800 # Apply default site image
+  - scope:
+      path: ""
+      type: posts
+    values:
+      tags:
+        - Other # Add a default tag to all posts
