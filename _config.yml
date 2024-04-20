@@ -16,6 +16,12 @@ social-links:
 baseurl: /aiml
 url: https://nseelam-blog.github.io
 
+utterances:
+  repo: "nseelam-blog/aiml"
+  issue-term: "og:title"
+  label: "utteranc.es"
+  theme: "github-dark"
+
 #########################################################################################
 ### Formatting
 #########################################################################################
@@ -44,3 +50,5 @@ header_pages:
   - archive.html
 
 comments_repo: nseelam-blog/aiml
+
+
