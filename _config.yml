@@ -22,6 +22,9 @@ url: https://nseelam-blog.github.io/aiml
 theme: minima
 # remote_theme: jekyll/minima
 
+minima:
+  skin: dark
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
